@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sources>
+    <source tag1="France" tag2="Tout">
+        <categorie tag1="Sport" tag2="Tout">
+        <rss name='france24'><url>http://www.france24.com/fr/sports/rss</url></rss>
+        <rss name='lefigaro'><url>http://www.lefigaro.fr/rss/figaro_le-scan-sport.xml</url></rss>
+        <rss name='lemonde'><url>http://www.lemonde.fr/sport/rss_full.xml</url></rss>
+        </categorie>
+        <categorie tag1="Economie" tag2="Tout">
+            <rss name='france24'><url>http://www.france24.com/fr/economie/rss</url></rss>
+            <rss name='lefigaro'><url>http://www.lefigaro.fr/rss/figaro_economie.xml</url></rss>
+              <rss name='lemonde'><url>http://www.lemonde.fr/economie/rss_full.xml</url></rss>
+        </categorie>
+        <categorie tag1="Art et Culture" tag2="Tout">
+            <rss name='france24'><url>http://www.france24.com/fr/culture/rss</url></rss>/Users/boutkhourst/Desktop/rsssources.xml
+            <rss name='lefigaro'><url>http://www.lefigaro.fr/rss/figaro_culture.xml</url></rss>
+             <rss name='lemonde'><url>http://www.lemonde.fr/culture/rss_full.xml</url></rss>
+        </categorie>
+        <categorie tag1="Politique" tag2="Tout">
+            <rss name='lefigaro'><url>http://www.lefigaro.fr/rss/figaro_politique.xml</url></rss>
+             <rss name='lemonde'><url>http://www.lemonde.fr/politique/rss_full.xml</url></rss>
+        </categorie>
+        <categorie tag1="Societe" tag2="Tout">
+            <rss name='lefigaro'><url>http://www.lefigaro.fr/rss/figaro_actualite-france.xml</url></rss>
+            <rss name='lemonde'><url>http://www.lemonde.fr/societe/rss_full.xml</url></rss>
+        </categorie>
+    </source>
+    <source tag1="Maroc" tag2="Tout">
+        <categorie tag1="Tout" tag2="Tout">
+            <rss name='marocpress'><url>http://www.marocpress.com/feed/</url></rss>
+            <rss name='chouftv'><url>http://chouftv.ma/rss</url></rss>
+            <rss name='hespress'><url>http://hespress.com/feed/index.rss</url></rss>
+            <rss name='maghress'><url>https://www.maghress.com/fr/author/rss</url></rss>
+        </categorie>
+        <categorie tag1="Sport" tag2="Tout">
+            <rss name='maghress'><url>https://www.maghress.com/fr/sport/rss</url></rss>
+            <rss name='menara'><url>http://www.menara.ma/fr/rss/sports-ar.xml</url></rss>
+        </categorie>
+        <categorie tag1="Art et culture" tag2="Tout">
+            <rss name='maghress'><url>https://www.maghress.com/fr/culture/rss</url></rss>
+            <rss name='menara'><url>http://www.menara.ma/fr/rss/culture.xml</url></rss>
+            <rss name='menara'><url>http://www.menara.ma/fr/rss/people-ar.xml</url></rss>
+            <rss name='menara'><url>http://www.menara.ma/fr/rss/musique-ar.xml</url></rss>
+        </categorie>
+         <categorie tag1="Economie" tag2="Tout">
+             <rss name='menara'><url>http://www.menara.ma/fr/rss/economie-ar.xml</url></rss>
+        </categorie>
+        <categorie tag1="Politique" tag2="Tout">
+            <rss name='maghress'><url>https://www.maghress.com/fr/politique/rss</url></rss>
+        </categorie>
+        <categorie tag1="Societe" tag2="Tout">
+            <rss name='maghress'><url>https://www.maghress.com/fr/social/rss</url></rss>
+        </categorie>
+    </source>
+</sources>
